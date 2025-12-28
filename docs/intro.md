@@ -1,47 +1,192 @@
 ---
-sidebar_position: 1
+title: TrendX Overview
+slug: /
 ---
 
-# Tutorial Intro
+# What is TrendsX Bets?
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+TrendsX Bets is a real-time attention prediction platform - a market where users bet on the movement of public interest.
 
-Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Instead of trading prices, tokens, or hype, users speculate on what the world will care about next, using live Google Trends data as the foundation.
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Each bet represents a measurable belief about collective curiosity... a conviction backed by data, not speculation.
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**.
+“Put your money where your mouth is.”
 
-The classic template will automatically be added to your project after you run the command:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Core Concept
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+**TrendsX Bets = Polymarket × Google Trends - Onchain**
 
-## Start your site
+It’s a new class of speculative platform that merges:
 
-Run the development server:
+**Google Trends data** (real search interest)
 
-```bash
-cd my-website
-npm run start
-```
+**Crypto-style betting mechanics**
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+**Wallet-based participation (Phantom / Solana)**
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Users can:
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Select a trending topic (e.g., “Bitcoin,” “AI Girlfriends,” “Quantum Breakthrough”, "Hyperinflation")
+
+Predict whether its search interest will rise or fall
+
+Place a bet using crypto
+
+Track outcomes via real-time charts
+
+
+Each prediction is powered by actual, measurable human behavior - search volume data; making this the first truly on-chain data-native betting platform.
+
+
+## Why TrendsX Exists
+
+The crypto market has become saturated with noise - meme coins, manipulative price action, and speculative assets that reflect hype, not reality.
+
+But beneath all that chaos lies a deeper truth:
+
+**Attention drives markets.**
+
+When millions of people start searching for a topic, narratives form, capital follows, and value shifts.
+
+TrendsX Bets captures that attention flow at its source, letting users bet directly on curiosity itself — before price moves.
+
+
+## The Problem with Meme Markets
+
+
+Meme CoinsTrendsX Bets
+
+Based on hype & speculation
+
+Based on measurable search data
+
+Manipulated by insiders & influencers
+
+Grounded in reality — hard to fake millions of searches
+
+Volatile & unsustainable
+
+Reflective of genuine public interest
+
+Reflect hype after it happens
+
+Trades attention as it happens
+
+**TrendsX Bets bypasses token noise and focuses on the pure signal — global curiosity.**
+
+
+## What Makes It Unique
+
+
+LayerInnovation
+
+**Data Source**
+
+Live Google Trends data via SerpAPI
+
+**Mechanic**
+
+Predict the direction of attention (↑ or ↓)
+
+**Market Type**
+
+Zero-sum — conviction vs conviction
+
+**Social Layer**
+
+Peer-to-Peer trend duels + DAO governance
+
+**Philosophy**
+
+“Bet on attention, not speculation.”
+
+**Leverage**
+
+Scale your conviction — higher token stake = higher leverage
+
+**Token Utility**
+
+$TRENDX token powers governance, rewards, and conviction-based leverage tiers
+
+
+## Why It Matters
+
+
+The next wave of crypto innovation isn’t about tokens — it’s about data.
+
+TrendsX Bets transforms:
+
+**Search trends → Tradable markets** 
+
+**Opinions → Convictions**
+
+Hype → Signal
+
+Attention → Currency
+
+It’s speculation grounded in reality — an honest market for human curiosity.
+
+
+## Summary
+
+
+Concept Description
+
+Product Type
+
+
+Real-time attention prediction platform
+
+
+Data Feed
+
+
+Google Trends (via SerpAPI)
+
+
+Currency
+
+
+SOL (Phantom wallet)
+
+
+Token
+
+
+$TRENDX — governance & leverage utility
+
+
+Market Structure
+
+
+Zero-sum, peer-to-peer & system bets
+
+
+Mission
+
+
+Gamify curiosity. Tokenize attention. Reward conviction.
+
+
+
+🪩 TL;DR
+
+
+TrendsX Bets is where data meets conviction.
+A market that turns human curiosity into a tradable asset —
+speculation without noise, hype, or manipulation.
+
+
+Bet on what the world will care about next.
+
+
+
+
+
