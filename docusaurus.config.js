@@ -54,7 +54,7 @@ const config = {
       title: 'TrendX',
       logo: {
         alt: 'TrendX Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -64,7 +64,7 @@ const config = {
           label: 'Docs',
         },
         {
-          href: 'https://github.com/trendxbets-dev/trendx-docs',
+          href: 'https://github.com/trendxbets-dev/TrendX',
           label: 'GitHub',
           position: 'right',
         },
