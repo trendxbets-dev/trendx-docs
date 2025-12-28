@@ -1,6 +1,5 @@
 ---
 title: Token Economics
-slug: token-economics
 ---
 
 ## What is $TRENDX?

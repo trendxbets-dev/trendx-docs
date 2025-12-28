@@ -3,10 +3,10 @@ title: TrendX Overview
 slug: /
 ---
 
-# What is TrendsX Bets?
+# What is TrendX Bets?
 
 
-TrendsX Bets is a real-time attention prediction platform - a market where users bet on the movement of public interest.
+TrendX Bets is a real-time attention prediction platform - a market where users bet on the movement of public interest.
 
 
 Instead of trading prices, tokens, or hype, users speculate on what the world will care about next, using live Google Trends data as the foundation.
@@ -21,7 +21,7 @@ Each bet represents a measurable belief about collective curiosity... a convicti
 ## Core Concept
 
 
-**TrendsX Bets = Polymarket × Google Trends - Onchain**
+**TrendX Bets = Polymarket × Google Trends - Onchain**
 
 It’s a new class of speculative platform that merges:
 
@@ -45,7 +45,7 @@ Track outcomes via real-time charts
 Each prediction is powered by actual, measurable human behavior - search volume data; making this the first truly on-chain data-native betting platform.
 
 
-## Why TrendsX Exists
+## Why TrendX Exists
 
 The crypto market has become saturated with noise - meme coins, manipulative price action, and speculative assets that reflect hype, not reality.
 
@@ -55,13 +55,13 @@ But beneath all that chaos lies a deeper truth:
 
 When millions of people start searching for a topic, narratives form, capital follows, and value shifts.
 
-TrendsX Bets captures that attention flow at its source, letting users bet directly on curiosity itself — before price moves.
+TrendX Bets captures that attention flow at its source, letting users bet directly on curiosity itself — before price moves.
 
 
 ## The Problem with Meme Markets
 
 
-Meme CoinsTrendsX Bets
+Meme CoinsTrendX Bets
 
 Based on hype & speculation
 
@@ -79,7 +79,7 @@ Reflect hype after it happens
 
 Trades attention as it happens
 
-**TrendsX Bets bypasses token noise and focuses on the pure signal — global curiosity.**
+**TrendX Bets bypasses token noise and focuses on the pure signal — global curiosity.**
 
 
 ## What Makes It Unique
@@ -121,7 +121,7 @@ $TRENDX token powers governance, rewards, and conviction-based leverage tiers
 
 The next wave of crypto innovation isn’t about tokens — it’s about data.
 
-TrendsX Bets transforms:
+TrendX Bets transforms:
 
 **Search trends → Tradable markets** 
 
@@ -179,7 +179,7 @@ Gamify curiosity. Tokenize attention. Reward conviction.
 🪩 TL;DR
 
 
-TrendsX Bets is where data meets conviction.
+TrendX Bets is where data meets conviction.
 A market that turns human curiosity into a tradable asset —
 speculation without noise, hype, or manipulation.
 

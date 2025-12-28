@@ -1,11 +1,10 @@
 ---
 title: Governance (DAO)
-slug: /governance
 ---
 
-## What is the TrendsX DAO?
+## What is the TrendX DAO?
 
-The TrendsX DAO is the collective intelligence layer of the platform - the mechanism through which users curate, evolve, and steer the global attention market.
+The TrendX DAO is the collective intelligence layer of the platform - the mechanism through which users curate, evolve, and steer the global attention market.
 
 It ensures that the system reflects what people actually care about, not what a centralized team decides.
 
@@ -19,7 +18,7 @@ Every user holding or staking $TRENDX becomes part of the DAO, with the ability 
 In a world where attention changes by the minute, governance must be dynamic, democratic, and data-aware.
 
 Traditional platforms are centralized — one team decides what’s trending.
-TrendsX flips that power structure: the people who bet on attention get to decide what attention is worth betting on.
+TrendX flips that power structure: the people who bet on attention get to decide what attention is worth betting on.
 
 The DAO prevents:
 
@@ -242,12 +241,12 @@ DAO manages trend lifecycle, treasury, and future feature proposals.
 
 **Phase 4 – Meta-Governance**
 
-TrendsX DAO interacts with external DAOs for cross-ecosystem attention markets.
+TrendX DAO interacts with external DAOs for cross-ecosystem attention markets.
 
 
 ## Summary
 
-TrendsX DAO is not just a governance layer —
+TrendX DAO is not just a governance layer —
 it’s a living, breathing curation engine for the internet’s attention.
 
 Powered by $TRENDX and guided by conviction,
