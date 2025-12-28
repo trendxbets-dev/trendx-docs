@@ -25,6 +25,11 @@ const sidebars = {
       id: 'payout-system',
       label: 'Payout System',
     },
+    {
+      type: 'doc',
+      id: 'roadmap',
+      label: 'Roadmap',
+    },
   ],
 };
 
