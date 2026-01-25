@@ -151,6 +151,32 @@ Improves reliability
 
 Keeps the system predictable
 
+## Payout Schedule
+
+Payouts on TrendX are processed in a **single daily batch**.
+
+### ⏰ Payout Time
+- **21:00 UTC** (daily)
+
+All eligible winnings are included in the next payout batch after a bet has fully resolved.
+
+### How payouts work
+- Bets must be **fully resolved** (i.e. the selected timeframe has ended) before they are eligible for payout.
+- Once resolved, payouts are **scheduled** for the next daily payout batch.
+- If the opposing pool does not have sufficient free liquidity, the payout is **queued** and automatically processed once liquidity becomes available.
+
+### Important notes
+- Payouts are **not instant** and do not occur immediately at bet resolution.
+- Only **one payout batch** is processed per day.
+- Payout timing is fixed and predictable to ensure system stability and transparency.
+
+### Example
+- A bet resolves at **18:30 UTC**
+- It will be included in the **21:00 UTC** payout batch the same day
+
+If a bet resolves **after 21:00 UTC**, it will be paid in the **next day’s** payout batch.
+
+
 ## 8. Transparency & Safety
 
 The payout system is designed so that:
